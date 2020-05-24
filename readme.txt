@@ -7,4 +7,4 @@ no use fast-forward.
 
 develop a new story.
 
-test in Sourcetree.
+test in Sourcetree include remote.
