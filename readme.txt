@@ -6,3 +6,5 @@ Creating a new branch is quick and simple.
 no use fast-forward.
 
 develop a new story.
+
+test in Sourcetree.
